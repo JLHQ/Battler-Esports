@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377656922517",
+    "project_id": "battler-esports",
+    "storage_bucket": "battler-esports.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377656922517:android:03e895309651d29549269c",
+        "android_client_info": {
+          "package_name": "gg.battler.battleresports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377656922517-9vtvpncst32mt3qvhsecveutnq01hnnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEvADtZIjShh_YarwRd4J_J06AUzpS3Fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377656922517-9vtvpncst32mt3qvhsecveutnq01hnnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
